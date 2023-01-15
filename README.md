@@ -1,10 +1,10 @@
 # Discussion Board (c4c technical)
 
 ## Table of contents 
-* [Overview] (#overview)
-* [Explanation of project] (#explanation-of-project)
-* [Challenge requirements fulfilled] (#reqs-fulfilled)
-* [Setup] (#setup)
+* [Overview](#overview)
+* [Explanation of project](#explanation-of-project)
+* [Challenge requirements fulfilled](#reqs-fulfilled)
+* [Setup](#setup)
 
 
 ## Overview 
