@@ -1,4 +1,4 @@
-# Discussion Board (c4c technical)
+# Discussion Board -- c4c technical
 
 ## Table of contents 
 * [Overview](#overview)
