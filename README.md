@@ -21,11 +21,14 @@ Database 'Forum.db' within the db directory is a sqlite3 database that stores al
 
 ## Setup 
 To run this project, install it locally using npm. 
-
+<br>
 `npm install`
+<br>
 `node index.js`
 
 If sqlite3 module cannot be found, try...
+<br>
 `npm uninstall sqlite3`
+<br>
 `npm install --save sqlite3`
 
