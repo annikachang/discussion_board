@@ -3,7 +3,7 @@
 ## Table of contents 
 * [Overview](#overview)
 * [Explanation of project](#explanation-of-project)
-* [Challenge requirements fulfilled](#reqs-fulfilled)
+* [Challenge requirements fulfilled](#challenge-requirements-fulfilled)
 * [Setup](#setup)
 
 
@@ -23,5 +23,9 @@ Database 'Forum.db' within the db directory is a sqlite3 database that stores al
 To run this project, install it locally using npm. 
 ```
 $ npm install
-$ npm index.js
+$ node index.js
+
+If sql file can't open, try
+$ npm uninstall sqlite3
+$ npm install --save sqlite3
 ```
